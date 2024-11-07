@@ -1,0 +1,3 @@
+venv_pets
+__pycache__
+db.sqlite3
